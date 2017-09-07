@@ -36,25 +36,11 @@
                 android:textColor="#f7f4f4" />
 
             <TextView
-                android:id="@+id/tvAlbum"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Title"
-                android:textColor="#fdfcfc" />
-
-            <TextView
                 android:id="@+id/tvSize"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Title"
                 android:textColor="#fcfbfb" />
-
-            <TextView
-                android:id="@+id/tvDuration"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Title"
-                android:textColor="#fcfafa" />
 
         </LinearLayout>
 </LinearLayout>
